@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.008" height="21.849" viewBox="0 0 9.008 21.849">
+  <g id="Group_3772" data-name="Group 3772" transform="translate(0.5 0.5)">
+    <g id="Group_3760" data-name="Group 3760" transform="translate(0 0)">
+      <g id="Group_3758" data-name="Group 3758" transform="translate(3.99 0)">
+        <path id="Path_20358" data-name="Path 20358" d="M859.947,251.3l1.549.007s.443.06.443.45v1.476a.457.457,0,0,0-.218.549c.119.377,1.178,1.152,1.476,2.2s.457,1.264.338,4.19c-.081,1.992-.116,3.595-.13,4.414a4.515,4.515,0,0,0,.109,1.074,19.619,19.619,0,0,1,.445,3.54c.079,2.323-.563,2.833-1.006,2.952l-3,0" transform="translate(-859.947 -251.298)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_122" data-name="Line 122" x1="3.518" transform="translate(0.01 9.716)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_123" data-name="Line 123" x1="3.494" y2="0.016" transform="translate(0.007 14.005)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <path id="Path_20359" data-name="Path 20359" d="M860.036,251.3" transform="translate(-856.018 -251.298)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_3759" data-name="Group 3759" transform="translate(0 0)">
+        <path id="Path_20360" data-name="Path 20360" d="M851.138,251.3l-1.549.007s-.444.06-.444.45v1.476a.457.457,0,0,1,.219.549c-.119.377-1.178,1.152-1.476,2.2s-.457,1.264-.338,4.19c.081,1.992.116,3.595.13,4.414a4.521,4.521,0,0,1-.109,1.074,19.613,19.613,0,0,0-.445,3.54c-.079,2.323.563,2.833,1.006,2.952l3,0" transform="translate(-847.121 -251.298)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_124" data-name="Line 124" x2="3.518" transform="translate(0.49 9.716)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_125" data-name="Line 125" x2="3.494" y2="0.016" transform="translate(0.516 14.005)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <line id="Line_126" data-name="Line 126" x2="3.872" transform="translate(2.041 1.873)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
